@@ -1,4 +1,4 @@
-# Understanding Privacy Norms Around LLM-Based Chatbots: A Contextual Integrity Perspective Repository
+# Understanding Privacy Norms Around LLM-Based Chatbots: A Contextual Integrity Perspective (Repository)
 
 This is the data and code repository for the AIES'2025 paper ***Understanding Privacy Norms Around LLM-Based Chatbots: A Contextual Integrity Perspective***, availiable at {LINK ARXIV}
 
