@@ -19,7 +19,7 @@ library(sandwich)
 library(parameters)
 
 # Load in the cleaned, aligned data 
-full_df <- read.csv("Downloads/Stats_Privacy/long_survey_data.csv")
+full_df <- read.csv("Downloads/Stats_Privacy/final_aligned_survey_data.csv")
 colnames(full_df)
 
 ## SETTING THE LEVELS
