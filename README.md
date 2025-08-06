@@ -7,15 +7,22 @@ This is the data and code repository for the AIES'2025 paper ***Understanding Pr
 **1. Repository Structure**
 ```
 ├── README.md
-├── data
-│   ├── aligned_data
-│   │   └── long_survey_data.csv
+├── data # PII and demographic information (i.e political affiliation) have been removed from the data
+│   ├── aligned_data 
+│   │   ├── final_aligned_survey_data.csv # This CSV contains the data for evlauting the factorial vignettes'
+│   │   └── sensitivity_rankings.csv # This CSV coontains the data for evaluating chat data sensitivity
 │   ├── clean
-│   │   └── cleaned_survey_data.csv
+│   │   └── cleaned_survey_data.csv 
 │   └── raw
 │       └── raw_survey_data.csv
+├── data_analysis
+│   ├── chat_data_sensitivity.R # Contains the R code for evaluating 'Chat Data Sensitivity'
+│   ├── linear_mixed_model.R # Contains the R code for the linear mixed models used to evaluate the factorial vignettes
+│   └── privacy_control_questions.R # Contains the R code for the t-tests used to evaluate privacy attitudes and private data exchange value.
 └── data_cleaning
-    └── data_cleaning.py
+    ├── data_cleaning.py # Script used to create the final_aligned_survey_data.csv
+    └── sensitivity_ranking.py # Script used to create the sensitivity_rankings.csv
+
 ```
 
 **2. Paper & Citation**
