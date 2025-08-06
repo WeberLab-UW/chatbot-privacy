@@ -33,10 +33,22 @@ This is the data and code repository for the AIES'2025 paper ***Understanding Pr
 
 **2. Paper & Citation**
 ```
-@article{
+@article{tran2025understanding,
   title={Understanding Privacy Norms Around LLM-Based Chatbots: A Contextual Integrity Perspective},
   author={Tran, Sarah and Lu, Hongfan and Slaughter, Isaac and Herman, Bernease and Dangol, Aayushi and Fu, Yue and Chen, Lufei and Gebreyohannes, Biniyam and Howe, Bill and Hiniker, Alexis and Weber, Nicholas and Wolfe, Robert}
-  journal={},
+  journal={arXiv preprint arXiv:},
   year={2025}
+}
+```
+**3. Data Citation**
+```
+@data{DVN/MOOSR8_2025,
+    author = {Tran, Sarah Huynh},
+    publisher = {Harvard Dataverse},
+    title = {{Replication Data for: Understanding Privacy Norms Around LLM-Based Chatbots: A Contextual Integrity Perspective}},
+    UNF = {UNF:6:H0O2egZLXaDZedvPKaI8wA==},
+    year = {2025},
+    doi = {10.7910/DVN/MOOSR8},
+    url = {https://doi.org/10.7910/DVN/MOOSR8}
 }
 ```
