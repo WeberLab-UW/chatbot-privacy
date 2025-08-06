@@ -10,7 +10,7 @@ This is the data and code repository for the AIES'2025 paper ***Understanding Pr
 ├── data # PII and demographic information (i.e political affiliation) have been removed from the data
 │   ├── aligned_data 
 │   │   ├── final_aligned_survey_data.csv # This CSV contains the data for evlauting the factorial vignettes'
-│   │   └── sensitivity_rankings.csv # This CSV coontains the data for evaluating chat data sensitivity
+│   │   └── sensitivity_rankings.csv # This CSV contains the data for evaluating chat data sensitivity
 │   ├── clean
 │   │   └── cleaned_survey_data.csv 
 │   └── raw
