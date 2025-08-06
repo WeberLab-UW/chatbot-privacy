@@ -7,8 +7,7 @@ This is the data and code repository for the AIES'2025 paper ***Understanding Pr
 **Preregistered Study**: [Contextual Integrity and Chatlogs: A Factorial Vignette Survey](https://osf.io/f43tb)
 <p>
     
-[**Transparent Changes Document**](https://osf.io/xs5cm)
-
+**Preregistered Study Amendments**: [Transparent Changes Document](https://osf.io/xs5cm)
 
 
 **1. Repository Structure**
