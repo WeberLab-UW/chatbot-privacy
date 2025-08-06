@@ -9,6 +9,8 @@ This is the data and code repository for the AIES'2025 paper ***Understanding Pr
     
 **Preregistered Study Amendments**: [Transparent Changes Document](https://osf.io/xs5cm)
 
+**Data additionally made available at**: [Replication Data for: Understanding Privacy Norms Around LLM-Based Chatbots: A Contextual Integrity Perspective](https://doi.org/10.7910/DVN/MOOSR8)
+
 
 **1. Repository Structure**
 ```
