@@ -1,4 +1,7 @@
-# Understanding Privacy Norms Around LLM-Based Chatbots: A Contextual Integrity Perspective (Repository)
+![Static Badge](https://img.shields.io/badge/DOI-10.7910%2FDVN%2FM6ABJ3-violet?style=flat&label=DOI&link=https%3A%2F%2Fdoi.org%2F10.7910%2FDVN%2FM6ABJ3)
+
+
+**Understanding Privacy Norms Around LLM-Based Chatbots: A Contextual Integrity Perspective**
 
 This is the data and code repository for the AIES'2025 paper ***Understanding Privacy Norms Around LLM-Based Chatbots: A Contextual Integrity Perspective***, availiable at {LINK ARXIV}
 
@@ -44,13 +47,14 @@ This is the data and code repository for the AIES'2025 paper ***Understanding Pr
 ```
 **3. Data Citation**
 ```
-@data{DVN/MOOSR8_2025,
-    author={Tran, Sarah Huynh},
-    publisher={Harvard Dataverse},
-    title={{Replication Data for: Understanding Privacy Norms Around LLM-Based Chatbots: A Contextual Integrity Perspective}},
-    UNF={UNF:6:H0O2egZLXaDZedvPKaI8wA==},
-    year={2025},
-    doi={10.7910/DVN/MOOSR8},
-    url={https://doi.org/10.7910/DVN/MOOSR8}
+@data{DVN/M6ABJ3_2025,
+author = {Sarah Tran and Robert Wolfe and Nicholas Weber},
+publisher = {Harvard Dataverse},
+title = {{Replication Data for: Understanding Privacy Norms Around LLM-Based Chatbots: A Contextual Integrity Perspective}},
+UNF = {UNF:6:J5vjU4szG7SZrFY9MPiKaQ==},
+year = {2025},
+version = {DRAFT VERSION},
+doi = {10.7910/DVN/M6ABJ3},
+url = {https://doi.org/10.7910/DVN/M6ABJ3}
 }
 ```
