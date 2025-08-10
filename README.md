@@ -31,8 +31,10 @@ This is the data and code repository for the AIES'2025 paper ***Understanding Pr
 │   ├── linear_mixed_model.R # Contains the R code for the linear mixed models used to evaluate the factorial vignettes
 │   └── privacy_control_questions.R # Contains the R code for the t-tests used to evaluate privacy attitudes and private data exchange value.
 └── data_cleaning
-    ├── data_cleaning.py # Script used to create the final_aligned_survey_data.csv
-    └── sensitivity_ranking.py # Script used to create the sensitivity_rankings.csv
+│   ├── data_cleaning.py # Script used to create the final_aligned_survey_data.csv
+│   └── sensitivity_ranking.py # Script used to create the sensitivity_rankings.csv
+├── paper
+    └── Contextual-Integrity-AIES-2025.pdf # Full Paper, including Appendix
 
 ```
 
