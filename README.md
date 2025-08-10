@@ -12,7 +12,7 @@ This is the data and code repository for the AIES'2025 paper ***Understanding Pr
     
 **Preregistered Study Amendments**: [Transparent Changes Document](https://osf.io/xs5cm)
 
-**Data additionally made available at**: [Replication Data for: Understanding Privacy Norms Around LLM-Based Chatbots: A Contextual Integrity Perspective](https://doi.org/10.7910/DVN/MOOSR8)
+**Data additionally made available at**: [Replication Data for: Understanding Privacy Norms Around LLM-Based Chatbots: A Contextual Integrity Perspective](https://doi.org/10.7910/DVN/M6ABJ3)
 
 
 **1. Repository Structure**
@@ -48,13 +48,13 @@ This is the data and code repository for the AIES'2025 paper ***Understanding Pr
 **3. Data Citation**
 ```
 @data{DVN/M6ABJ3_2025,
-author = {Sarah Tran and Robert Wolfe and Nicholas Weber},
-publisher = {Harvard Dataverse},
-title = {{Replication Data for: Understanding Privacy Norms Around LLM-Based Chatbots: A Contextual Integrity Perspective}},
-UNF = {UNF:6:J5vjU4szG7SZrFY9MPiKaQ==},
-year = {2025},
-version = {DRAFT VERSION},
-doi = {10.7910/DVN/M6ABJ3},
-url = {https://doi.org/10.7910/DVN/M6ABJ3}
+  author={Sarah Tran and Robert Wolfe and Nicholas Weber},
+  publisher={Harvard Dataverse},
+  title={{Replication Data for: Understanding Privacy Norms Around LLM-Based Chatbots: A Contextual Integrity Perspective}},
+  UNF={UNF:6:J5vjU4szG7SZrFY9MPiKaQ==},
+  year={2025},
+  version={V1},
+  doi={10.7910/DVN/M6ABJ3},
+  url={https://doi.org/10.7910/DVN/M6ABJ3}
 }
 ```
