@@ -43,7 +43,7 @@ This is the data and code repository for the AIES'2025 paper ***Understanding Pr
 @article{tran2025understanding,
   title={Understanding Privacy Norms Around LLM-Based Chatbots: A Contextual Integrity Perspective},
   author={Tran, Sarah and Lu, Hongfan and Slaughter, Isaac and Herman, Bernease and Dangol, Aayushi and Fu, Yue and Chen, Lufei and Gebreyohannes, Biniyam and Howe, Bill and Hiniker, Alexis and Weber, Nicholas and Wolfe, Robert},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv: http://arxiv.org/abs/2508.06760},
   year={2025}
 }
 ```
